@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks exploring the 'distance' between local authority on either generic or emissions specific features of local authorities. 
 
-The goal is to explore and develop methods for drawing connections between 'similar' authorities so 
+The goal is to explore and develop methods for drawing connections between 'similar' authorities to improve learning between authorities with similar problems.
 
 This is produced as part of [mySociety's Climate progrmame](https://www.mysociety.org/climate/). 
 
