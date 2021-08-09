@@ -1,86 +1,27 @@
-# Template mySociety Jupyter notebook
+# Local authority distance comparison
 
-Template with submodule for helper functions, and dockerfile to set chrome up correctly for charts. 
+This repository contains Jupyter notebooks exploring the 'distance' between local authority on either generic or emissions specific features of local authorities. 
 
-This is useful for when the readme should include some analysis of files elsewhere in the repo and you don't want to copy and paste. 
+The goal is to explore and develop methods for drawing connections between 'similar' authorities so 
 
-`readme.ipynb` can be set up as a notebook, which then renders itself to `readme.md`. 
+This is produced as part of [mySociety's Climate progrmame](https://www.mysociety.org/climate/). 
 
-Example of this approach: https://github.com/mysociety/composite_uk_imd
+Key notebooks:
 
+* [pollution.v1.ipynb](pollution.v1.ipynb) - exploring how the BEIS emissions dataset can be used to compare local authorities. 
+* [deprivation.ipynb](deprivation.ipynb) - exploring how deprivation/density groups authorities, and how this differs from emissions or physical distance. 
 
-## How to use
+Outputs from these processes are stored in `data\outputs`. For each comparison, this contains a file showing the distance (unit is meaningless, but can be used to rank), and a file showing the results of a clustering process. 
 
-Should just work in VSCode, be careful if you start storing config in `devcontainer.json` as currently not excluded from git.
+## Licencing
 
-pandas and altair are automatically loaded as `pd` and `alt`. The mysociety theme is already initalised. 
+Shapefiles for calcualting area and physical distance derived from [Boundary-Line](https://www.ordnancesurvey.co.uk/business-government/products/boundaryline) and [OSNI Local Government districts](https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-local-government-districts-2012).
 
-Examples below show basic usage.
+Source datasets are Open Government licence unless otherwise stated.
 
-By default `render_to_markdown` will not print the input box (so code can be hidden). Add `include_input=True` as below to include it.
+Output datasets are licensed under a Creative Commons Attribution 4.0 International License.
 
-The chrome reference can be removed from the dockerfile if not doing any chart rendering. Currently the blank requirements.txt is not referenced in the dockerfile to avoid a layer, you'll need to add that if adding more requirements to the notebook.
+Code and scripts are licenced under a MIT Licence.
 
-
-# Example code
-
-Start the notebook by pulling in the general set of helpers. Start the codeblock with `#HIDE` to exclude it from being displayed in render (example at top of `readme.ipynb`).
-
-
-```python
-from notebook_helper import *
-notebook_setup()
-```
-
-## Example table
-
-This shows a table being rendered as markdown
-
-
-```python
-source = pd.DataFrame({
-    'Vertical': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I'],
-    'Horizontal': [28, 55, 43, 91, 81, 53, 19, 87, 52]
-})
-
-source["double_h"] = source["Horizontal"] * 2
-
-source
-```
-
-
-
-
-| Vertical | Horizontal | double_h |
-| :--- | :--- | :--- |
-| A | 28 | 56 |
-| B | 55 | 110 |
-| C | 43 | 86 |
-| D | 91 | 182 |
-| E | 81 | 162 |
-| F | 53 | 106 |
-| G | 19 | 38 |
-| H | 87 | 174 |
-| I | 52 | 104 |
-
-
-
-
-# Example chart
-
-
-```python
-chart = alt.Chart(source).mark_bar().encode(
-    y='Vertical',
-    x='Horizontal'
-).properties(title="This is an example chart, with the right fonts")
-
-chart.display(logo=True, caption="Data source goes here")
-
-```
-
-
-    
-![](_notebook_resources/readme_7_0.png)
-    
+Raincloud plots citation: Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63. DOI: [10.12688/wellcomeopenres.15191.2](https://wellcomeopenresearch.org/articles/4-63/v2)
 
