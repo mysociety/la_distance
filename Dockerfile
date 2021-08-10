@@ -14,7 +14,7 @@ RUN pip install -r /base_requirements.txt
 COPY requirements.txt /
 RUN pip install -r /requirements.txt
 
-ARG NB_USER=juser
+ARG NB_USER=jovyan
 ARG NB_UID=1000
 ENV USER ${NB_USER}
 ENV NB_UID ${NB_UID}
