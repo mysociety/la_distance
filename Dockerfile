@@ -5,6 +5,7 @@ ENV DEBIAN_FRONTEND noninteractive
 RUN pip install --no-cache-dir notebook
 
 COPY notebook_helper/packages_setup.bash /
+RUN chmod u+x /packages_setup.bash
 RUN /packages_setup.bash
 
 COPY notebook_helper/base_requirements.txt /
