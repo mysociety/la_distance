@@ -8,7 +8,7 @@ This is produced as part of [mySociety's Climate progrmame](https://www.mysociet
 
 Key notebooks:
 
-* [pollution.v1.ipynb](pollution.v1.ipynb) - exploring how the BEIS emissions dataset can be used to compare local authorities. 
+* [emissions.v1.ipynb](pollution.v1.ipynb) - exploring how the BEIS emissions dataset can be used to compare local authorities. 
 * [deprivation.ipynb](deprivation.ipynb) - exploring how deprivation/density groups authorities, and how this differs from emissions or physical distance. 
 
 Outputs from these processes are stored in `data\outputs`. For each comparison, this contains a file showing the distance (unit is meaningless, but can be used to rank), and a file showing the results of a clustering process. 
