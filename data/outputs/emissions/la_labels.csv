@@ -1,0 +1,410 @@
+local-authority-code,label
+ABC,Industry/domestic/transport
+ABD,Industry/domestic/transport
+ABE,Public sector
+ADU,Urban mainstream
+AGB,Industry/domestic/transport
+AGY,Industry/domestic/transport
+ALL,Industry/domestic/transport
+AMB,Domestic
+AND,Domestic
+ANN,Industry/domestic/transport
+ANS,Industry/domestic/transport
+ARU,Domestic
+ASF,Domestic
+ASH,Domestic
+BAB,Industry/domestic/transport
+BAE,Industry/domestic/transport
+BAI,Urban mainstream
+BAN,Domestic
+BAR,Industry/commercial/public sector
+BAS,Urban mainstream
+BBD,Urban mainstream
+BDF,Domestic
+BDG,Urban mainstream
+BEN,Urban mainstream
+BEX,Urban mainstream
+BFS,Public sector
+BGE,Domestic
+BGW,Domestic
+BIR,Public sector
+BLA,Urban mainstream
+BNE,Urban mainstream
+BNH,Urban mainstream
+BNS,Domestic
+BOL,Urban mainstream
+BOS,Domestic
+BOT,Domestic
+BPC,Urban mainstream
+BPL,Public sector
+BRA,Domestic
+BRC,Urban mainstream
+BRD,Domestic
+BRE,Industry/domestic/transport
+BRM,Domestic
+BRO,Domestic
+BRT,Domestic
+BRW,Domestic
+BRX,Urban mainstream
+BRY,Urban mainstream
+BST,Urban mainstream
+BUC,Domestic
+BUN,Domestic
+BUR,Domestic
+CAB,Public sector
+CAN,Domestic
+CAR,Domestic
+CAS,Urban mainstream
+CAT,Urban mainstream
+CAY,Domestic
+CBF,Domestic
+CCG,Industry/domestic/transport
+CGN,Industry/domestic/transport
+CHA,Domestic
+CHE,Domestic
+CHI,Industry/domestic/transport
+CHL,Domestic
+CHO,Domestic
+CHR,Domestic
+CHS,Domestic
+CHT,Urban mainstream
+CHW,Domestic
+CLD,Domestic
+CLK,Industry/commercial/public sector
+CMD,Public sector
+CMN,Industry/domestic/transport
+COL,Urban mainstream
+CON,Industry/domestic/transport
+COP,Domestic
+COT,Industry/domestic/transport
+COV,Urban mainstream
+CRA,Industry/domestic/transport
+CRF,Urban mainstream
+CRW,Urban mainstream
+CRY,Urban mainstream
+CWY,Domestic
+DAC,Domestic
+DAL,Domestic
+DAR,Urban mainstream
+DEB,Industry/domestic/transport
+DEN,Domestic
+DER,Urban mainstream
+DGY,Industry/domestic/transport
+DNC,Domestic
+DND,Public sector
+DOV,Urban mainstream
+DRS,Industry/domestic/transport
+DST,Domestic
+DUD,Urban mainstream
+DUR,Domestic
+EAL,Urban mainstream
+EAS,Urban mainstream
+EAT,Urban mainstream
+EAY,Domestic
+ECA,Industry/domestic/transport
+EDE,Domestic
+EDH,Public sector
+EDN,Industry/domestic/transport
+EDU,Domestic
+EHA,Industry/domestic/transport
+EHE,Domestic
+ELI,Industry/domestic/transport
+ELM,Domestic
+ELN,Domestic
+ELS,Industry/domestic/transport
+ENF,Urban mainstream
+EPP,Domestic
+EPS,Urban mainstream
+ERE,Domestic
+ERW,Domestic
+ERY,Industry/domestic/transport
+ESK,Domestic
+EST,Domestic
+EXE,Public sector
+FAL,Domestic
+FAR,Urban mainstream
+FEN,Industry/domestic/transport
+FIF,Domestic
+FLN,Industry/domestic/transport
+FMO,Industry/domestic/transport
+FOE,Domestic
+FYL,Domestic
+GAT,Domestic
+GED,Domestic
+GLG,Public sector
+GLO,Public sector
+GOS,Urban mainstream
+GRA,Domestic
+GRE,Urban mainstream
+GRT,Domestic
+GRY,Urban mainstream
+GWN,Industry/domestic/transport
+HAA,Urban mainstream
+HAE,Industry/domestic/transport
+HAG,Domestic
+HAL,Domestic
+HAO,Domestic
+HAR,Urban mainstream
+HAS,Urban mainstream
+HAT,Domestic
+HAV,Urban mainstream
+HCK,Urban mainstream
+HEF,Industry/domestic/transport
+HER,Domestic
+HIG,Industry/commercial/public sector
+HIL,Urban mainstream
+HIN,Domestic
+HLD,Industry/domestic/transport
+HMF,Public sector
+HNS,Urban mainstream
+HOR,Domestic
+HPL,Domestic
+HRW,Urban mainstream
+HRY,Urban mainstream
+HUN,Industry/domestic/transport
+HYN,Domestic
+IOS,Urban mainstream
+IOW,Urban mainstream
+IPS,Urban mainstream
+ISL,Urban mainstream
+IVC,Domestic
+KEC,Public sector
+KHL,Urban mainstream
+KIN,Industry/domestic/transport
+KIR,Domestic
+KTT,Urban mainstream
+KWL,Domestic
+LAC,Domestic
+LBC,Domestic
+LBH,Urban mainstream
+LCE,Urban mainstream
+LDS,Public sector
+LEE,Domestic
+LEW,Urban mainstream
+LIC,Public sector
+LIF,Industry/domestic/transport
+LIV,Public sector
+LUT,Urban mainstream
+MAI,Urban mainstream
+MAL,Domestic
+MAN,Public sector
+MAS,Domestic
+MAV,Domestic
+MDB,Domestic
+MDE,Industry/domestic/transport
+MDW,Urban mainstream
+MEA,Industry/domestic/transport
+MEL,Industry/domestic/transport
+MEN,Industry/domestic/transport
+MIK,Urban mainstream
+MLN,Domestic
+MOL,Domestic
+MON,Industry/domestic/transport
+MRT,Urban mainstream
+MRY,Industry/commercial/public sector
+MSS,Domestic
+MSU,Industry/domestic/transport
+MTY,Domestic
+MUL,Industry/domestic/transport
+NAY,Industry/commercial/public sector
+NBL,Industry/domestic/transport
+NDE,Domestic
+NEA,Industry/domestic/transport
+NEC,Domestic
+NED,Domestic
+NEL,Industry/commercial/public sector
+NET,Public sector
+NEW,Domestic
+NGM,Public sector
+NHE,Domestic
+NKE,Domestic
+NLK,Domestic
+NLN,Industry/domestic/transport
+NMD,Industry/domestic/transport
+NNO,Industry/domestic/transport
+NNT,Industry/domestic/transport
+NOW,Urban mainstream
+NSM,Domestic
+NTL,Industry/commercial/public sector
+NTY,Domestic
+NUN,Urban mainstream
+NWA,Industry/domestic/transport
+NWL,Industry/domestic/transport
+NWM,Urban mainstream
+NWP,Domestic
+OAD,Urban mainstream
+OLD,Urban mainstream
+ORK,Domestic
+OXO,Public sector
+PEM,Industry/commercial/public sector
+PEN,Domestic
+PKN,Industry/domestic/transport
+PLY,Urban mainstream
+POR,Urban mainstream
+POW,Industry/domestic/transport
+PRE,Public sector
+PTE,Domestic
+RCC,Industry/commercial/public sector
+RCH,Urban mainstream
+RCT,Domestic
+RDB,Urban mainstream
+RDG,Urban mainstream
+RED,Urban mainstream
+REI,Domestic
+RFW,Domestic
+RIB,Industry/domestic/transport
+RIC,Urban mainstream
+RIH,Industry/commercial/public sector
+ROC,Domestic
+ROH,Industry/domestic/transport
+ROS,Industry/domestic/transport
+ROT,Domestic
+RUG,Domestic
+RUH,Urban mainstream
+RUN,Public sector
+RUS,Domestic
+RUT,Industry/commercial/public sector
+RYE,Industry/domestic/transport
+SAL,Domestic
+SAW,Urban mainstream
+SAY,Industry/domestic/transport
+SCA,Industry/domestic/transport
+SCB,Industry/domestic/transport
+SCE,Domestic
+SDE,Industry/domestic/transport
+SEG,Domestic
+SEL,Industry/domestic/transport
+SEV,Domestic
+SFT,Industry/commercial/public sector
+SGC,Urban mainstream
+SHA,Industry/domestic/transport
+SHE,Urban mainstream
+SHF,Public sector
+SHN,Industry/commercial/public sector
+SHO,Domestic
+SHR,Industry/domestic/transport
+SKE,Industry/domestic/transport
+SKP,Domestic
+SLA,Industry/domestic/transport
+SLF,Urban mainstream
+SLG,Urban mainstream
+SLK,Domestic
+SND,Domestic
+SNO,Industry/domestic/transport
+SOL,Domestic
+SOS,Urban mainstream
+SOX,Domestic
+SPE,Urban mainstream
+SRI,Domestic
+SSO,Domestic
+SST,Industry/domestic/transport
+STA,Domestic
+STE,Industry/commercial/public sector
+STF,Industry/domestic/transport
+STG,Industry/domestic/transport
+STH,Urban mainstream
+STN,Urban mainstream
+STO,Domestic
+STR,Industry/domestic/transport
+STT,Domestic
+STV,Public sector
+STY,Urban mainstream
+SUR,Domestic
+SWA,Domestic
+SWD,Urban mainstream
+SWK,Public sector
+SWL,Domestic
+SWT,Domestic
+TAM,Urban mainstream
+TAN,Domestic
+TAW,Urban mainstream
+TEI,Industry/domestic/transport
+TEN,Domestic
+TES,Domestic
+TEW,Domestic
+TFW,Domestic
+THA,Industry/commercial/public sector
+THE,Domestic
+THR,Domestic
+TOB,Urban mainstream
+TOF,Domestic
+TON,Domestic
+TOR,Industry/domestic/transport
+TRF,Domestic
+TUN,Domestic
+TWH,Public sector
+UTT,Industry/domestic/transport
+VAL,Industry/domestic/transport
+VGL,Domestic
+WAE,Domestic
+WAT,Urban mainstream
+WAW,Domestic
+WBK,Domestic
+WDE,Industry/domestic/transport
+WDU,Public sector
+WEA,Domestic
+WEW,Urban mainstream
+WFT,Urban mainstream
+WGN,Urban mainstream
+WIL,Domestic
+WIN,Domestic
+WKF,Domestic
+WLA,Industry/commercial/public sector
+WLI,Industry/domestic/transport
+WLL,Urban mainstream
+WLN,Domestic
+WLV,Urban mainstream
+WND,Urban mainstream
+WNM,Domestic
+WNT,Domestic
+WOC,Urban mainstream
+WOI,Domestic
+WOK,Urban mainstream
+WOT,Urban mainstream
+WOX,Domestic
+WRL,Domestic
+WRT,Domestic
+WRX,Industry/domestic/transport
+WSK,Industry/domestic/transport
+WSM,Public sector
+WYC,Domestic
+WYE,Domestic
+WYR,Domestic
+YOR,Urban mainstream
+ZET,Domestic
+CAM,Domestic
+CMA,Industry/domestic/transport
+DBY,Industry/domestic/transport
+DEV,Domestic
+ESS,Domestic
+ESX,Domestic
+GLA,Urban mainstream
+GLS,Domestic
+HAM,Domestic
+HRT,Domestic
+KEN,Domestic
+LAN,Domestic
+LCR,Public sector
+LEC,Domestic
+LIN,Domestic
+NFK,Domestic
+NTT,Domestic
+NYK,Industry/domestic/transport
+OXF,Domestic
+SCR,Domestic
+SFK,Domestic
+SOM,Domestic
+SRY,Domestic
+STS,Domestic
+WAR,Domestic
+WOR,Domestic
+WSX,Domestic
+CPCA,Domestic
+GMCA,Urban mainstream
+NECA,Domestic
+NTCA,Domestic
+TVCA,Domestic
+WECA,Urban mainstream
+WMCA,Urban mainstream
+WYCA,Domestic
+LND,City of London

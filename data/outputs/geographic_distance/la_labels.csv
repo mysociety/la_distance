@@ -1,0 +1,410 @@
+local-authority-code,label
+ABC,Northern Ireland
+ABD,Scotland
+ABE,Scotland
+ADU,South East
+AGB,Scotland
+AGY,Wales
+ALL,North West
+AMB,East Midlands
+AND,Northern Ireland
+ANN,Northern Ireland
+ANS,Scotland
+ARU,South East
+ASF,South East
+ASH,East Midlands
+BAB,East of England
+BAE,East Midlands
+BAI,East of England
+BAN,South East
+BAR,North West
+BAS,South West
+BBD,North West
+BDF,East of England
+BDG,London
+BEN,London
+BEX,London
+BFS,Northern Ireland
+BGE,Wales
+BGW,Wales
+BIR,West Midlands
+BLA,East Midlands
+BNE,London
+BNH,South East
+BNS,Yorkshire and The Humber
+BOL,North West
+BOS,East Midlands
+BOT,East Midlands
+BPC,South West
+BPL,North West
+BRA,East of England
+BRC,South East
+BRD,Yorkshire and The Humber
+BRE,East of England
+BRM,West Midlands
+BRO,East of England
+BRT,East Midlands
+BRW,East of England
+BRX,East of England
+BRY,London
+BST,South West
+BUC,South East
+BUN,North West
+BUR,North West
+CAB,East of England
+CAM,East of England
+CAN,West Midlands
+CAR,North West
+CAS,East of England
+CAT,South East
+CAY,Wales
+CBF,East of England
+CCG,Northern Ireland
+CGN,Wales
+CHA,East Midlands
+CHE,North West
+CHI,South East
+CHL,East of England
+CHO,North West
+CHR,South East
+CHS,East Midlands
+CHT,South West
+CHW,North West
+CLD,Yorkshire and The Humber
+CLK,Scotland
+CMA,North West
+CMD,London
+CMN,Wales
+COL,East of England
+CON,South West
+COP,North West
+COT,South West
+COV,West Midlands
+CPCA,East of England
+CRA,Yorkshire and The Humber
+CRF,Wales
+CRW,South East
+CRY,London
+CWY,Wales
+DAC,East of England
+DAL,North East
+DAR,South East
+DBY,West Midlands
+DEB,East Midlands
+DEN,Wales
+DER,East Midlands
+DEV,South West
+DGY,Scotland
+DNC,Yorkshire and The Humber
+DND,Scotland
+DOV,South East
+DRS,Northern Ireland
+DST,South West
+DUD,West Midlands
+DUR,North East
+EAL,London
+EAS,South East
+EAT,South East
+EAY,Scotland
+ECA,East of England
+EDE,South West
+EDH,Scotland
+EDN,North West
+EDU,Scotland
+EHA,South East
+EHE,East of England
+ELI,East Midlands
+ELM,South East
+ELN,Scotland
+ELS,Scotland
+ENF,London
+EPP,East of England
+EPS,South East
+ERE,East Midlands
+ERW,Scotland
+ERY,Yorkshire and The Humber
+ESK,East of England
+ESS,East of England
+EST,West Midlands
+ESX,South East
+EXE,South West
+FAL,Scotland
+FAR,South East
+FEN,East of England
+FIF,Scotland
+FLN,Wales
+FMO,Northern Ireland
+FOE,South West
+FYL,North West
+GAT,North East
+GED,East Midlands
+GLA,London
+GLG,Scotland
+GLO,South West
+GLS,South West
+GMCA,North West
+GOS,South East
+GRA,South East
+GRE,London
+GRT,South East
+GRY,East of England
+GWN,Wales
+HAA,South East
+HAE,Yorkshire and The Humber
+HAG,Yorkshire and The Humber
+HAL,North West
+HAM,South East
+HAO,East Midlands
+HAR,East of England
+HAS,South East
+HAT,South East
+HAV,London
+HCK,London
+HEF,West Midlands
+HER,East of England
+HIG,East Midlands
+HIL,London
+HIN,East Midlands
+HLD,Scotland
+HMF,London
+HNS,London
+HOR,South East
+HPL,North East
+HRT,East of England
+HRW,London
+HRY,London
+HUN,East of England
+HYN,North West
+IOS,South West
+IOW,South East
+IPS,East of England
+ISL,London
+IVC,Scotland
+KEC,London
+KEN,South East
+KHL,Yorkshire and The Humber
+KIN,East of England
+KIR,Yorkshire and The Humber
+KTT,London
+KWL,North West
+LAC,North West
+LAN,North West
+LBC,Northern Ireland
+LBH,London
+LCE,East Midlands
+LCR,North West
+LDS,Yorkshire and The Humber
+LEC,East Midlands
+LEE,South East
+LEW,London
+LIC,East Midlands
+LIF,West Midlands
+LIN,Yorkshire and The Humber
+LIV,North West
+LND,London
+LUT,East of England
+MAI,South East
+MAL,East of England
+MAN,North West
+MAS,East Midlands
+MAV,West Midlands
+MDB,North East
+MDE,South West
+MDW,South East
+MEA,Northern Ireland
+MEL,East Midlands
+MEN,South West
+MIK,South East
+MLN,Scotland
+MOL,South East
+MON,Wales
+MRT,London
+MRY,Scotland
+MSS,South East
+MSU,East of England
+MTY,Wales
+MUL,Northern Ireland
+NAY,Scotland
+NBL,North East
+NDE,South West
+NEA,East Midlands
+NEC,West Midlands
+NECA,North East
+NED,East Midlands
+NEL,Yorkshire and The Humber
+NET,North East
+NEW,South East
+NFK,East of England
+NGM,East Midlands
+NHE,East of England
+NKE,East Midlands
+NLK,Scotland
+NLN,Yorkshire and The Humber
+NMD,Northern Ireland
+NNO,East of England
+NNT,East Midlands
+NOW,East of England
+NSM,South West
+NTCA,North East
+NTL,Wales
+NTT,East Midlands
+NTY,North East
+NUN,West Midlands
+NWA,West Midlands
+NWL,East Midlands
+NWM,London
+NWP,Wales
+NYK,Yorkshire and The Humber
+OAD,East Midlands
+OLD,North West
+ORK,Scotland
+OXF,South East
+OXO,South East
+PEM,Wales
+PEN,North West
+PKN,Scotland
+PLY,South West
+POR,South East
+POW,Wales
+PRE,North West
+PTE,East of England
+RCC,North East
+RCH,North West
+RCT,Wales
+RDB,London
+RDG,South East
+RED,West Midlands
+REI,South East
+RFW,Scotland
+RIB,North West
+RIC,London
+RIH,Yorkshire and The Humber
+ROC,East of England
+ROH,South East
+ROS,North West
+ROT,Yorkshire and The Humber
+RUG,West Midlands
+RUH,South East
+RUN,South East
+RUS,East Midlands
+RUT,East Midlands
+RYE,Yorkshire and The Humber
+SAL,East of England
+SAW,West Midlands
+SAY,Scotland
+SCA,East of England
+SCB,Scotland
+SCE,Yorkshire and The Humber
+SCR,Yorkshire and The Humber
+SDE,East Midlands
+SEG,South West
+SEL,Yorkshire and The Humber
+SEV,South East
+SFK,East of England
+SFT,North West
+SGC,South West
+SHA,South West
+SHE,South East
+SHF,Yorkshire and The Humber
+SHN,North West
+SHO,East Midlands
+SHR,West Midlands
+SKE,East Midlands
+SKP,North West
+SLA,North West
+SLF,North West
+SLG,South East
+SLK,Scotland
+SND,North East
+SNO,East of England
+SOL,West Midlands
+SOM,South West
+SOS,East of England
+SOX,South East
+SPE,South East
+SRI,North West
+SRY,South East
+SSO,South West
+SST,West Midlands
+STA,West Midlands
+STE,West Midlands
+STF,West Midlands
+STG,Scotland
+STH,South East
+STN,London
+STO,South West
+STR,West Midlands
+STS,West Midlands
+STT,North East
+STV,East of England
+STY,North East
+SUR,South East
+SWA,Wales
+SWD,South West
+SWK,London
+SWL,South East
+SWT,South West
+TAM,North West
+TAN,South East
+TAW,West Midlands
+TEI,South West
+TEN,East of England
+TES,South East
+TEW,South West
+TFW,West Midlands
+THA,South East
+THE,East of England
+THR,East of England
+TOB,South West
+TOF,Wales
+TON,South East
+TOR,South West
+TRF,North West
+TUN,South East
+TVCA,North East
+TWH,London
+UTT,East of England
+VAL,South East
+VGL,Wales
+WAE,South East
+WAR,West Midlands
+WAT,East of England
+WAW,West Midlands
+WBK,South East
+WDE,South West
+WDU,Scotland
+WEA,South East
+WECA,South West
+WEW,East of England
+WFT,London
+WGN,North West
+WIL,South West
+WIN,South East
+WKF,Yorkshire and The Humber
+WLA,North West
+WLI,East Midlands
+WLL,West Midlands
+WLN,Scotland
+WLV,West Midlands
+WMCA,West Midlands
+WND,London
+WNM,South East
+WNT,East Midlands
+WOC,West Midlands
+WOI,South East
+WOK,South East
+WOR,West Midlands
+WOT,South East
+WOX,South East
+WRL,North West
+WRT,North West
+WRX,Wales
+WSK,East of England
+WSM,London
+WSX,South East
+WYC,West Midlands
+WYCA,Yorkshire and The Humber
+WYE,West Midlands
+WYR,North West
+YOR,Yorkshire and The Humber
+ZET,Scotland
