@@ -5,11 +5,8 @@
 	"build": {
 		"dockerfile": "../Dockerfile.dev",
 	},
-
-	// Set *default* container specific settings.json values on container create.
-	"settings": { 
-		"terminal.integrated.shell.linux": "/bin/bash"
-	},
+	
+	"postCreateCommand": "git submodule update --init",
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
