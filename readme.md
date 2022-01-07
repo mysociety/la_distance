@@ -8,9 +8,10 @@ This is produced as part of [mySociety's Climate progrmame](https://www.mysociet
 
 Key notebooks:
 
-* [emissions.v1.ipynb](emissions.v1.ipynb) - exploring how the BEIS emissions dataset can be used to compare local authorities. 
-* [deprivation.ipynb](deprivation.ipynb) - exploring how deprivation/density groups authorities, and how this differs from emissions or physical distance. 
-* [lookup_demo.ipynb](lookup_demo.ipynb) - Demo of an emissions distance comparison tool (described in the emissions notebook).
+* [emissions.v2.ipynb](notebooks/emissions.v2.ipynb) - exploring how the BEIS emissions dataset can be used to compare local authorities. 
+* [imd.ipynb](notebooks/imd.ipynb) - exploring how deprivation/density groups authorities.
+* [ruc.ipynb](notebooks/ruc.ipynb) - using composite RUC index.
+* [lookup_demo_v2.ipynb](notebooks/lookup_demo_v2.ipynb) - Demo of the combined approaches.
 
 Outputs from these processes are stored in `data\outputs`. For each comparison, this contains a file showing the distance (unit is meaningless, but can be used to rank), and a file showing the results of a clustering process. 
 
