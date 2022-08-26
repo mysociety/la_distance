@@ -1,0 +1,1 @@
+This comparison set shows councils which geographically border or overlap with the selected council. 

@@ -1,12 +1,29 @@
+# Local authority distance comparison
 
-# Local Authority Similarity/Distance
+This repository contains Jupyter notebooks exploring the 'distance' between local authority on either generic or emissions specific features of local authorities. 
 
-[![badge](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mysociety/la_distance/HEAD)
+The goal is to explore and develop methods for drawing connections between 'similar' authorities to improve learning between authorities with similar problems.
 
-Datasets and methods for calculating similarity between councils on different metrics
+This is produced as part of [mySociety's Climate progrmame](https://www.mysociety.org/climate/). 
 
-This repository is available online at https://github.com/mysociety/la_distance
+Key notebooks:
 
-If Github Pages are enabled, the URL is: https://mysociety.github.io/la_distance/
+* [emissions.v2.ipynb](notebooks/emissions.v2.ipynb) - exploring how the BEIS emissions dataset can be used to compare local authorities. 
+* [imd.ipynb](notebooks/imd.ipynb) - exploring how deprivation/density groups authorities.
+* [ruc.ipynb](notebooks/ruc.ipynb) - using composite RUC index.
+* [lookup_demo_v2.ipynb](notebooks/lookup_demo_v2.ipynb) - Demo of the combined approaches.
 
-Instructions on using the features of this notebook (data publishing, notebook rendering, Github Pages) are available in [https://github.com/mysociety/data_common/blob/main/data-repo-readme.md](Data Common readme file).
+Outputs from these processes are stored in `data\outputs`. For each comparison, this contains a file showing the distance (unit is meaningless, but can be used to rank), and a file showing the results of a clustering process. 
+
+## Licencing
+
+Shapefiles for calcualting area and physical distance derived from [Boundary-Line](https://www.ordnancesurvey.co.uk/business-government/products/boundaryline) and [OSNI Local Government districts](https://www.opendatani.gov.uk/dataset/osni-open-data-largescale-boundaries-local-government-districts-2012).
+
+Source datasets are Open Government licence unless otherwise stated.
+
+Output datasets are licensed under a Creative Commons Attribution 4.0 International License.
+
+Code and scripts are licenced under a MIT Licence.
+
+Raincloud plots citation: Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63. DOI: [10.12688/wellcomeopenres.15191.2](https://wellcomeopenresearch.org/articles/4-63/v2)
+

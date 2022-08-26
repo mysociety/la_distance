@@ -1,0 +1,410 @@
+local-authority-code,label
+ABC,Sparse and rural; Emissions: Industry/domestic/transport; 2nd IMD quintile; Northern Ireland
+ABD,Sparse and rural; Emissions: Industry/domestic/transport; 5th IMD quintile; Scotland
+ABE,Urban; Emissions: Public sector; 4th IMD quintile; Scotland
+ADU,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+AGB,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; Scotland
+AGY,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+ALL,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; North West
+AMB,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East Midlands
+AND,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Northern Ireland
+ANN,Urban with rural areas; Emissions: Industry/domestic/transport; 2nd IMD quintile; Northern Ireland
+ANS,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; Scotland
+ARU,Urban; Emissions: Domestic; 4th IMD quintile; South East
+ASF,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South East
+ASH,Urban; Emissions: Domestic; 2nd IMD quintile; East Midlands
+BAB,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+BAE,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; East Midlands
+BAI,Urban; Emissions: Urban mainstream; 3rd IMD quintile; East of England
+BAN,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+BAR,Urban with rural areas; Emissions: Industry/commercial/public sector; 1st IMD quintile; North West
+BAS,Urban with rural areas; Emissions: Urban mainstream; 5th IMD quintile; South West
+BBD,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+BDF,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East of England
+BDG,Urban; Emissions: Urban mainstream; 1st IMD quintile; London
+BEN,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+BEX,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+BFS,Urban; Emissions: Public sector; 1st IMD quintile; Northern Ireland
+BGE,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; Wales
+BGW,Urban; Emissions: Domestic; 1st IMD quintile; Wales
+BIR,Urban; Emissions: Public sector; 1st IMD quintile; West Midlands
+BLA,Urban with rural areas; Emissions: Urban mainstream; 5th IMD quintile; East Midlands
+BNE,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+BNH,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+BNS,Urban; Emissions: Domestic; 1st IMD quintile; Yorkshire and The Humber
+BOL,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+BOS,Rural; Emissions: Domestic; 2nd IMD quintile; East Midlands
+BOT,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; East Midlands
+BPC,Urban; Emissions: Urban mainstream; 4th IMD quintile; South West
+BPL,Urban; Emissions: Public sector; 1st IMD quintile; North West
+BRA,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East of England
+BRC,Urban; Emissions: Urban mainstream; 5th IMD quintile; South East
+BRD,Urban; Emissions: Domestic; 1st IMD quintile; Yorkshire and The Humber
+BRE,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; East of England
+BRM,Urban; Emissions: Domestic; 5th IMD quintile; West Midlands
+BRO,Rural; Emissions: Domestic; 5th IMD quintile; East of England
+BRT,Urban; Emissions: Domestic; 5th IMD quintile; East Midlands
+BRW,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; East of England
+BRX,Urban; Emissions: Urban mainstream; 4th IMD quintile; East of England
+BRY,Urban; Emissions: Urban mainstream; 5th IMD quintile; London
+BST,Urban; Emissions: Urban mainstream; 2nd IMD quintile; South West
+BUC,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+BUN,Urban; Emissions: Domestic; 1st IMD quintile; North West
+BUR,Urban; Emissions: Domestic; 3rd IMD quintile; North West
+CAB,Urban; Emissions: Public sector; 4th IMD quintile; East of England
+CAN,Urban; Emissions: Domestic; 3rd IMD quintile; West Midlands
+CAR,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; North West
+CAS,Urban; Emissions: Urban mainstream; 4th IMD quintile; East of England
+CAT,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+CAY,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; Wales
+CBF,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; East of England
+CCG,Sparse and rural; Emissions: Industry/domestic/transport; 1st IMD quintile; Northern Ireland
+CGN,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+CHA,Urban; Emissions: Domestic; 5th IMD quintile; East Midlands
+CHE,Urban; Emissions: Domestic; 4th IMD quintile; North West
+CHI,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; South East
+CHL,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; East of England
+CHO,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; North West
+CHR,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South East
+CHS,Urban; Emissions: Domestic; 2nd IMD quintile; East Midlands
+CHT,Urban; Emissions: Urban mainstream; 5th IMD quintile; South West
+CHW,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; North West
+CLD,Urban; Emissions: Domestic; 2nd IMD quintile; Yorkshire and The Humber
+CLK,Rural; Emissions: Industry/commercial/public sector; 3rd IMD quintile; Scotland
+CMD,Urban; Emissions: Public sector; 3rd IMD quintile; London
+CMN,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+COL,Urban with rural areas; Emissions: Urban mainstream; 4th IMD quintile; East of England
+CON,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; South West
+COP,Rural; Emissions: Domestic; 2nd IMD quintile; North West
+COT,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; South West
+COV,Urban; Emissions: Urban mainstream; 2nd IMD quintile; West Midlands
+CRA,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; Yorkshire and The Humber
+CRF,Urban; Emissions: Urban mainstream; 2nd IMD quintile; Wales
+CRW,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+CRY,Urban; Emissions: Urban mainstream; 3rd IMD quintile; London
+CWY,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Wales
+DAC,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+DAL,Urban; Emissions: Domestic; 2nd IMD quintile; North East
+DAR,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+DEB,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East Midlands
+DEN,Rural; Emissions: Domestic; 2nd IMD quintile; Wales
+DER,Urban; Emissions: Urban mainstream; 2nd IMD quintile; East Midlands
+DGY,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; Scotland
+DNC,Urban; Emissions: Domestic; 1st IMD quintile; Yorkshire and The Humber
+DND,Urban; Emissions: Public sector; 2nd IMD quintile; Scotland
+DOV,Urban with rural areas; Emissions: Urban mainstream; 3rd IMD quintile; South East
+DRS,Urban with rural areas; Emissions: Industry/domestic/transport; 1st IMD quintile; Northern Ireland
+DST,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South West
+DUD,Urban; Emissions: Urban mainstream; 3rd IMD quintile; West Midlands
+DUR,Rural; Emissions: Domestic; 2nd IMD quintile; North East
+EAL,Urban; Emissions: Urban mainstream; 3rd IMD quintile; London
+EAS,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+EAT,Urban; Emissions: Urban mainstream; 5th IMD quintile; South East
+EAY,Rural; Emissions: Domestic; 2nd IMD quintile; Scotland
+ECA,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+EDE,Rural; Emissions: Domestic; 5th IMD quintile; South West
+EDH,Urban; Emissions: Public sector; 4th IMD quintile; Scotland
+EDN,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; North West
+EDU,Urban; Emissions: Domestic; 5th IMD quintile; Scotland
+EHA,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; South East
+EHE,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; East of England
+ELI,Rural; Emissions: Industry/domestic/transport; 1st IMD quintile; East Midlands
+ELM,Urban; Emissions: Domestic; 5th IMD quintile; South East
+ELN,Rural; Emissions: Domestic; 4th IMD quintile; Scotland
+ELS,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; Scotland
+ENF,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+EPP,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East of England
+EPS,Urban; Emissions: Urban mainstream; 5th IMD quintile; South East
+ERE,Urban; Emissions: Domestic; 4th IMD quintile; East Midlands
+ERW,Urban; Emissions: Domestic; 5th IMD quintile; Scotland
+ERY,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; Yorkshire and The Humber
+ESK,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; East of England
+EST,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; West Midlands
+EXE,Urban; Emissions: Public sector; 4th IMD quintile; South West
+FAL,Urban; Emissions: Domestic; 3rd IMD quintile; Scotland
+FAR,Urban; Emissions: Urban mainstream; 5th IMD quintile; South East
+FEN,Urban with rural areas; Emissions: Industry/domestic/transport; 2nd IMD quintile; East of England
+FIF,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Scotland
+FLN,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+FMO,Sparse and rural; Emissions: Industry/domestic/transport; 1st IMD quintile; Northern Ireland
+FOE,Sparse and rural; Emissions: Domestic; 4th IMD quintile; South West
+FYL,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; North West
+GAT,Urban; Emissions: Domestic; 2nd IMD quintile; North East
+GED,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East Midlands
+GLG,Urban; Emissions: Public sector; 1st IMD quintile; Scotland
+GLO,Urban; Emissions: Public sector; 3rd IMD quintile; South West
+GOS,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+GRA,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; South East
+GRE,Urban; Emissions: Urban mainstream; 3rd IMD quintile; London
+GRT,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+GRY,Urban with rural areas; Emissions: Urban mainstream; 1st IMD quintile; East of England
+GWN,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+HAA,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+HAE,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; Yorkshire and The Humber
+HAG,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; Yorkshire and The Humber
+HAL,Urban; Emissions: Domestic; 1st IMD quintile; North West
+HAO,Rural; Emissions: Domestic; 5th IMD quintile; East Midlands
+HAR,Urban; Emissions: Urban mainstream; 3rd IMD quintile; East of England
+HAS,Urban; Emissions: Urban mainstream; 1st IMD quintile; South East
+HAT,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+HAV,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+HCK,Urban; Emissions: Urban mainstream; 1st IMD quintile; London
+HEF,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; West Midlands
+HER,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+HIG,Urban with rural areas; Emissions: Industry/commercial/public sector; 4th IMD quintile; East Midlands
+HIL,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+HIN,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; East Midlands
+HLD,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; Scotland
+HMF,Urban; Emissions: Public sector; 3rd IMD quintile; London
+HNS,Urban; Emissions: Urban mainstream; 3rd IMD quintile; London
+HOR,Rural; Emissions: Domestic; 5th IMD quintile; South East
+HPL,Urban; Emissions: Domestic; 1st IMD quintile; North East
+HRW,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+HRY,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+HUN,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+HYN,Urban; Emissions: Domestic; 1st IMD quintile; North West
+IOS,Sparse and rural; Emissions: Urban mainstream; 5th IMD quintile; South West
+IOW,Urban with rural areas; Emissions: Urban mainstream; 3rd IMD quintile; South East
+IPS,Urban; Emissions: Urban mainstream; 2nd IMD quintile; East of England
+ISL,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+IVC,Urban; Emissions: Domestic; 1st IMD quintile; Scotland
+KEC,Urban; Emissions: Public sector; 3rd IMD quintile; London
+KHL,Urban; Emissions: Urban mainstream; 1st IMD quintile; Yorkshire and The Humber
+KIN,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; East of England
+KIR,Urban; Emissions: Domestic; 2nd IMD quintile; Yorkshire and The Humber
+KTT,Urban; Emissions: Urban mainstream; 5th IMD quintile; London
+KWL,Urban; Emissions: Domestic; 1st IMD quintile; North West
+LAC,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; North West
+LBC,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Northern Ireland
+LBH,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+LCE,Urban; Emissions: Urban mainstream; 1st IMD quintile; East Midlands
+LDS,Urban; Emissions: Public sector; 2nd IMD quintile; Yorkshire and The Humber
+LEE,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South East
+LEW,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+LIC,Urban; Emissions: Public sector; 2nd IMD quintile; East Midlands
+LIF,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; West Midlands
+LIV,Urban; Emissions: Public sector; 1st IMD quintile; North West
+LND,Urban; Emissions: City of London; 4th IMD quintile; London
+LUT,Urban; Emissions: Urban mainstream; 2nd IMD quintile; East of England
+MAI,Urban with rural areas; Emissions: Urban mainstream; 4th IMD quintile; South East
+MAL,Rural; Emissions: Domestic; 5th IMD quintile; East of England
+MAN,Urban; Emissions: Public sector; 1st IMD quintile; North West
+MAS,Urban; Emissions: Domestic; 2nd IMD quintile; East Midlands
+MAV,Sparse and rural; Emissions: Domestic; 4th IMD quintile; West Midlands
+MDB,Urban; Emissions: Domestic; 1st IMD quintile; North East
+MDE,Rural; Emissions: Industry/domestic/transport; 4th IMD quintile; South West
+MDW,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+MEA,Urban with rural areas; Emissions: Industry/domestic/transport; 2nd IMD quintile; Northern Ireland
+MEL,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; East Midlands
+MEN,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; South West
+MIK,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+MLN,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; Scotland
+MOL,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+MON,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; Wales
+MRT,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+MRY,Sparse and rural; Emissions: Industry/commercial/public sector; 4th IMD quintile; Scotland
+MSS,Urban; Emissions: Domestic; 5th IMD quintile; South East
+MSU,Sparse and rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+MTY,Urban; Emissions: Domestic; 1st IMD quintile; Wales
+MUL,Sparse and rural; Emissions: Industry/domestic/transport; 2nd IMD quintile; Northern Ireland
+NAY,Urban with rural areas; Emissions: Industry/commercial/public sector; 2nd IMD quintile; Scotland
+NBL,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; North East
+NDE,Rural; Emissions: Domestic; 3rd IMD quintile; South West
+NEA,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; East Midlands
+NEC,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; West Midlands
+NED,Urban; Emissions: Domestic; 4th IMD quintile; East Midlands
+NEL,Urban; Emissions: Industry/commercial/public sector; 1st IMD quintile; Yorkshire and The Humber
+NET,Urban; Emissions: Public sector; 1st IMD quintile; North East
+NEW,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+NGM,Urban; Emissions: Public sector; 1st IMD quintile; East Midlands
+NHE,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+NKE,Rural; Emissions: Domestic; 5th IMD quintile; East Midlands
+NLK,Urban; Emissions: Domestic; 2nd IMD quintile; Scotland
+NLN,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; Yorkshire and The Humber
+NMD,Sparse and rural; Emissions: Industry/domestic/transport; 1st IMD quintile; Northern Ireland
+NNO,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; East of England
+NNT,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; East Midlands
+NOW,Urban; Emissions: Urban mainstream; 2nd IMD quintile; East of England
+NSM,Urban; Emissions: Domestic; 4th IMD quintile; South West
+NTL,Urban with rural areas; Emissions: Industry/commercial/public sector; 1st IMD quintile; Wales
+NTY,Urban; Emissions: Domestic; 3rd IMD quintile; North East
+NUN,Urban; Emissions: Urban mainstream; 3rd IMD quintile; West Midlands
+NWA,Rural; Emissions: Industry/domestic/transport; 4th IMD quintile; West Midlands
+NWL,Rural; Emissions: Industry/domestic/transport; 4th IMD quintile; East Midlands
+NWM,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+NWP,Urban; Emissions: Domestic; 1st IMD quintile; Wales
+OAD,Urban; Emissions: Urban mainstream; 5th IMD quintile; East Midlands
+OLD,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+ORK,Sparse and rural; Emissions: Domestic; 5th IMD quintile; Scotland
+OXO,Urban; Emissions: Public sector; 4th IMD quintile; South East
+PEM,Rural; Emissions: Industry/commercial/public sector; 3rd IMD quintile; Wales
+PEN,Urban; Emissions: Domestic; 1st IMD quintile; North West
+PKN,Sparse and rural; Emissions: Industry/domestic/transport; 5th IMD quintile; Scotland
+PLY,Urban; Emissions: Urban mainstream; 2nd IMD quintile; South West
+POR,Urban; Emissions: Urban mainstream; 2nd IMD quintile; South East
+POW,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+PRE,Urban; Emissions: Public sector; 1st IMD quintile; North West
+PTE,Urban; Emissions: Domestic; 2nd IMD quintile; East of England
+RCC,Urban with rural areas; Emissions: Industry/commercial/public sector; 1st IMD quintile; North East
+RCH,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+RCT,Urban with rural areas; Emissions: Domestic; 1st IMD quintile; Wales
+RDB,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+RDG,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+RED,Urban; Emissions: Urban mainstream; 3rd IMD quintile; West Midlands
+REI,Urban; Emissions: Domestic; 5th IMD quintile; South East
+RFW,Urban; Emissions: Domestic; 3rd IMD quintile; Scotland
+RIB,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; North West
+RIC,Urban; Emissions: Urban mainstream; 5th IMD quintile; London
+RIH,Rural; Emissions: Industry/commercial/public sector; 5th IMD quintile; Yorkshire and The Humber
+ROC,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+ROH,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; South East
+ROS,Urban; Emissions: Industry/domestic/transport; 3rd IMD quintile; North West
+ROT,Urban; Emissions: Domestic; 1st IMD quintile; Yorkshire and The Humber
+RUG,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; West Midlands
+RUH,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+RUN,Urban; Emissions: Public sector; 5th IMD quintile; South East
+RUS,Rural; Emissions: Domestic; 5th IMD quintile; East Midlands
+RUT,Rural; Emissions: Industry/commercial/public sector; 5th IMD quintile; East Midlands
+RYE,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; Yorkshire and The Humber
+SAL,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+SAW,Urban; Emissions: Urban mainstream; 1st IMD quintile; West Midlands
+SAY,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; Scotland
+SCA,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+SCB,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; Scotland
+SCE,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; Yorkshire and The Humber
+SDE,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; East Midlands
+SEG,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; South West
+SEL,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; Yorkshire and The Humber
+SEV,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+SFT,Urban; Emissions: Industry/commercial/public sector; 2nd IMD quintile; North West
+SGC,Urban; Emissions: Urban mainstream; 5th IMD quintile; South West
+SHA,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; South West
+SHE,Urban with rural areas; Emissions: Urban mainstream; 3rd IMD quintile; South East
+SHF,Urban; Emissions: Public sector; 2nd IMD quintile; Yorkshire and The Humber
+SHN,Urban; Emissions: Industry/commercial/public sector; 1st IMD quintile; North West
+SHO,Rural; Emissions: Domestic; 4th IMD quintile; East Midlands
+SHR,Rural; Emissions: Industry/domestic/transport; 4th IMD quintile; West Midlands
+SKE,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; East Midlands
+SKP,Urban; Emissions: Domestic; 3rd IMD quintile; North West
+SLA,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; North West
+SLF,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+SLG,Urban; Emissions: Urban mainstream; 3rd IMD quintile; South East
+SLK,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Scotland
+SND,Urban; Emissions: Domestic; 1st IMD quintile; North East
+SNO,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+SOL,Urban; Emissions: Domestic; 4th IMD quintile; West Midlands
+SOS,Urban; Emissions: Urban mainstream; 3rd IMD quintile; East of England
+SOX,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+SPE,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+SRI,Urban; Emissions: Domestic; 4th IMD quintile; North West
+SSO,Rural; Emissions: Domestic; 4th IMD quintile; South West
+SST,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; West Midlands
+STA,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; West Midlands
+STE,Urban; Emissions: Industry/commercial/public sector; 1st IMD quintile; West Midlands
+STF,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; West Midlands
+STG,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; Scotland
+STH,Urban; Emissions: Urban mainstream; 2nd IMD quintile; South East
+STN,Urban; Emissions: Urban mainstream; 5th IMD quintile; London
+STO,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South West
+STR,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; West Midlands
+STT,Urban; Emissions: Domestic; 2nd IMD quintile; North East
+STV,Urban; Emissions: Public sector; 3rd IMD quintile; East of England
+STY,Urban; Emissions: Urban mainstream; 1st IMD quintile; North East
+SUR,Urban; Emissions: Domestic; 5th IMD quintile; South East
+SWA,Urban; Emissions: Domestic; 2nd IMD quintile; Wales
+SWD,Urban; Emissions: Urban mainstream; 4th IMD quintile; South West
+SWK,Urban; Emissions: Public sector; 2nd IMD quintile; London
+SWL,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; South East
+SWT,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; South West
+TAM,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+TAN,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+TAW,Urban; Emissions: Urban mainstream; 3rd IMD quintile; West Midlands
+TEI,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; South West
+TEN,Urban with rural areas; Emissions: Domestic; 1st IMD quintile; East of England
+TES,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+TEW,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South West
+TFW,Urban; Emissions: Domestic; 2nd IMD quintile; West Midlands
+THA,Urban; Emissions: Industry/commercial/public sector; 1st IMD quintile; South East
+THE,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+THR,Urban; Emissions: Domestic; 3rd IMD quintile; East of England
+TOB,Urban; Emissions: Urban mainstream; 2nd IMD quintile; South West
+TOF,Urban; Emissions: Domestic; 2nd IMD quintile; Wales
+TON,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+TOR,Sparse and rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; South West
+TRF,Urban; Emissions: Domestic; 4th IMD quintile; North West
+TUN,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+TWH,Urban; Emissions: Public sector; 2nd IMD quintile; London
+UTT,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; East of England
+VAL,Urban with rural areas; Emissions: Industry/domestic/transport; 5th IMD quintile; South East
+VGL,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; Wales
+WAE,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+WAT,Urban; Emissions: Urban mainstream; 4th IMD quintile; East of England
+WAW,Urban; Emissions: Domestic; 5th IMD quintile; West Midlands
+WBK,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+WDE,Sparse and rural; Emissions: Industry/domestic/transport; 4th IMD quintile; South West
+WDU,Urban; Emissions: Public sector; 2nd IMD quintile; Scotland
+WEA,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+WEW,Urban; Emissions: Urban mainstream; 5th IMD quintile; East of England
+WFT,Urban; Emissions: Urban mainstream; 2nd IMD quintile; London
+WGN,Urban; Emissions: Urban mainstream; 2nd IMD quintile; North West
+WIL,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South West
+WIN,Rural; Emissions: Domestic; 5th IMD quintile; South East
+WKF,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; Yorkshire and The Humber
+WLA,Urban with rural areas; Emissions: Industry/commercial/public sector; 4th IMD quintile; North West
+WLI,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; East Midlands
+WLL,Urban; Emissions: Urban mainstream; 1st IMD quintile; West Midlands
+WLN,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Scotland
+WLV,Urban; Emissions: Urban mainstream; 1st IMD quintile; West Midlands
+WND,Urban; Emissions: Urban mainstream; 4th IMD quintile; London
+WNM,Urban; Emissions: Domestic; 5th IMD quintile; South East
+WNT,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East Midlands
+WOC,Urban; Emissions: Urban mainstream; 3rd IMD quintile; West Midlands
+WOI,Urban; Emissions: Domestic; 5th IMD quintile; South East
+WOK,Urban; Emissions: Urban mainstream; 5th IMD quintile; South East
+WOT,Urban; Emissions: Urban mainstream; 4th IMD quintile; South East
+WOX,Rural; Emissions: Domestic; 5th IMD quintile; South East
+WRL,Urban; Emissions: Domestic; 1st IMD quintile; North West
+WRT,Urban; Emissions: Domestic; 3rd IMD quintile; North West
+WRX,Urban with rural areas; Emissions: Industry/domestic/transport; 3rd IMD quintile; Wales
+WSK,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; East of England
+WSM,Urban; Emissions: Public sector; 3rd IMD quintile; London
+WYC,Rural; Emissions: Domestic; 4th IMD quintile; West Midlands
+WYE,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; West Midlands
+WYR,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; North West
+YOR,Urban; Emissions: Urban mainstream; 5th IMD quintile; Yorkshire and The Humber
+ZET,Sparse and rural; Emissions: Domestic; 5th IMD quintile; Scotland
+CAM,Rural; Emissions: Domestic; 5th IMD quintile; East of England
+CMA,Rural; Emissions: Industry/domestic/transport; 3rd IMD quintile; North West
+DBY,Urban with rural areas; Emissions: Industry/domestic/transport; 4th IMD quintile; West Midlands
+DEV,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South West
+ESS,Urban; Emissions: Domestic; 4th IMD quintile; East of England
+ESX,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; South East
+GLA,Urban; Emissions: Urban mainstream; 3rd IMD quintile; London
+GLS,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South West
+HAM,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+HRT,Urban; Emissions: Domestic; 5th IMD quintile; East of England
+KEN,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; South East
+LAN,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; North West
+LCR,Urban; Emissions: Public sector; 1st IMD quintile; North West
+LEC,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; East Midlands
+LIN,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; Yorkshire and The Humber
+NFK,Rural; Emissions: Domestic; 3rd IMD quintile; East of England
+NTT,Urban with rural areas; Emissions: Domestic; 3rd IMD quintile; East Midlands
+NYK,Rural; Emissions: Industry/domestic/transport; 5th IMD quintile; Yorkshire and The Humber
+OXF,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+SCR,Urban; Emissions: Domestic; 2nd IMD quintile; Yorkshire and The Humber
+SFK,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East of England
+SOM,Rural; Emissions: Domestic; 4th IMD quintile; South West
+SRY,Urban; Emissions: Domestic; 5th IMD quintile; South East
+STS,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; West Midlands
+WAR,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; West Midlands
+WOR,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; West Midlands
+WSX,Urban with rural areas; Emissions: Domestic; 5th IMD quintile; South East
+CPCA,Urban with rural areas; Emissions: Domestic; 4th IMD quintile; East of England
+GMCA,Urban; Emissions: Urban mainstream; 1st IMD quintile; North West
+NECA,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; North East
+NTCA,Urban with rural areas; Emissions: Domestic; 2nd IMD quintile; North East
+TVCA,Urban; Emissions: Domestic; 1st IMD quintile; North East
+WECA,Urban; Emissions: Urban mainstream; 4th IMD quintile; South West
+WMCA,Urban; Emissions: Urban mainstream; 1st IMD quintile; West Midlands
+WYCA,Urban; Emissions: Domestic; 2nd IMD quintile; Yorkshire and The Humber
