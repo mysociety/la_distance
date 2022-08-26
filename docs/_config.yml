@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: template_data_repo
-description: Standardised template for mysociety data repositories
+title: Local Authority Similarity/Distance
+description: Datasets and methods for calculating similarity between councils on different metrics
 
-baseurl: "/template_data_repo"
+baseurl: "/la_distance"
 url: "https://mysociety.github.io"
 
 collections:
